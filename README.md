@@ -3,9 +3,9 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/bulk-fork?style=for-the-badge)](https://github.com/yourusername/bulk-fork/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/bulk-fork?style=for-the-badge)](https://github.com/yourusername/bulk-fork/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/bulk-fork?style=for-the-badge)](https://github.com/yourusername/bulk-fork/issues)
+[![GitHub stars](https://img.shields.io/github/stars/surjeet-web/Ultimate-Bulk-Forking-Guide?style=for-the-badge)](https://github.com/surjeet-web/Ultimate-Bulk-Forking-Guide/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/surjeet-web/Ultimate-Bulk-Forking-Guide?style=for-the-badge)](https://github.com/surjeet-web/Ultimate-Bulk-Forking-Guide/network)
+[![GitHub issues](https://img.shields.io/github/issues/surjeet-web/Ultimate-Bulk-Forking-Guide?style=for-the-badge)](https://github.com/surjeet-web/Ultimate-Bulk-Forking-Guide/issues)
 
 **The ultimate toolkit for mass-forking GitHub repositories with style and efficiency** ⚡
 
@@ -60,8 +60,8 @@ Get up and running in under 2 minutes:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/yourusername/bulk-fork.git
-cd bulk-fork
+git clone https://github.com/surjeet-web/Ultimate-Bulk-Forking-Guide.git
+cd Ultimate-Bulk-Forking-Guide
 
 # 2. Create your repository list
 echo "codieshiv/hacker-samulation" > repos.txt
@@ -534,7 +534,7 @@ We love contributions! Here's how you can help make this project even better:
 
 <div align="center">
 
-[![Contributors](https://img.shields.io/github/contributors/yourusername/bulk-fork?style=for-the-badge)](https://github.com/yourusername/bulk-fork/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/surjeet-web/Ultimate-Bulk-Forking-Guide?style=for-the-badge)](https://github.com/surjeet-web/Ultimate-Bulk-Forking-Guide/graphs/contributors)
 
 </div>
 
@@ -572,8 +572,8 @@ MIT License - Feel free to use, modify, and distribute! 🎉
 
 **If this project helped you, please consider giving it a ⭐!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/bulk-fork?style=social)](https://github.com/yourusername/bulk-fork/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/bulk-fork?style=social)](https://github.com/yourusername/bulk-fork/network)
+[![GitHub stars](https://img.shields.io/github/stars/surjeet-web/Ultimate-Bulk-Forking-Guide?style=social)](https://github.com/surjeet-web/Ultimate-Bulk-Forking-Guide/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/surjeet-web/Ultimate-Bulk-Forking-Guide?style=social)](https://github.com/surjeet-web/Ultimate-Bulk-Forking-Guide/network)
 
 ### 💖 Spread the Word
 
